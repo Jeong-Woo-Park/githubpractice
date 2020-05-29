@@ -1,1 +1,1 @@
-delete = erase
+delete = erase + add
